@@ -109,7 +109,7 @@ a {
 
 @media (max-width: 753px){
     .links-part {
-        visibility: hidden;
+        display: none;
     }
 }
 
